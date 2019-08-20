@@ -8,9 +8,10 @@ In this document, we'll review all of the guidelines and specifications for the 
 
 ## Objectives
 You will be able to:
-* Describe all required aspects of the final project for Module 2
-* Describe all required deliverables
-* Describe what constitutes a successful project
+
+- Describe all required aspects of the final project for Module 2
+- Describe all required deliverables
+- Describe what constitutes a successful project
 
 ## Final Project Summary
 
